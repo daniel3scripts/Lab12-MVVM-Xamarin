@@ -5,7 +5,7 @@ using Xamarin.Forms;
 
 namespace Lab12MVVM.View
 {
-    public class SharedResources
+    public static class SharedResources
     {
         public static Color OpButtonBkColor
         {
